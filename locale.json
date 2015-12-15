@@ -1,0 +1,316 @@
+{
+  "sections" : {
+    "sidebar": {
+      "userPic": "./images/userpic.jpg",
+      "username": "Иванов Сергей",
+      "startPage": "#/",
+      "userDescription": [
+        "Здравствуйте! Я Back-End разработчик, который любит сложные задачи, чистый и красивый код и интересные архитектурные решения, PHP/JQuery/Bootstrap 3."
+      ],
+      "mainMenu": [
+        {
+          "name": "Обо мне",
+          "link": "#/about",
+          "visible": true
+        },
+        {
+          "name": "Blog",
+          "link": "#/blog",
+          "visible": false
+        },
+        {
+          "name": "Portfolio",
+          "link": "#/folio",
+          "visible": false
+        },
+        {
+          "name": "Контакты",
+          "link": "#/contacts",
+          "visible": true
+        }
+      ],
+      "socialMenu": [
+        {
+          "id": "vk",
+          "name": "VK",
+          "link": "http://vk.com/id30380008"
+        },
+        {
+          "id": "in",
+          "name": "LinkedIn",
+          "link": "https://linkedin.com/in/barakhovsky"
+        }
+      ]
+    },
+    "about": {
+      "pageHeader": "Обо мне",
+      "pageDescription": [
+        "Здравствуйте! Меня завут Сергей и я PHP разработчик с опытом разработки архитектуры, знание и применение шаблонов программирования, проектирования.",
+        "Я всегда забочусь о качестве своего кода, стараюсь чтобы он был как понятный, ненагруженный,   так и гибкий в изменениях."
+      ],
+      "resume": [
+        {
+          "name": "Образование",
+          "description": [
+            "<b>Харьковский национальный университет радиоэлектроники</b>, Харьков, Украина.",
+            "Прикладная математика и мененджмент.",
+            "Получен в июле 2014."
+          ],
+          "firstColumn": true
+        },
+        {
+          "name": "Трудовая книга",
+          "description": [],
+          "firstColumn": true,
+          "miscLangs": {
+            "duties": "Обязаности"
+          },
+          "employments": [
+            {
+              "company": {
+                "name": "World Money Transfer LLC",
+                "city": "Симферополь",
+                "country": "Россия",
+                "position": "PHP-developer",
+                "dateFrom": "Январь",
+                "dateTill": "Декабрь"
+              },
+              "duties": [
+                "Разработка веб-сервисов используя PHP",
+                "JQuery кодинг",
+                "Code refactoring",
+                "Обучене юниоров",
+                "Архитектура",
+                "Code review"
+              ]
+            },
+            {
+              "company": {
+                "name": "Web Ukraine.",
+                "city": "Харьков",
+                "country": "Украина",
+                "position": "PHP developer",
+                "dateFrom": "Май 2013",
+                "dateTill": "Август 2014"
+              },
+              "duties": [
+                "Сборка html верстки на ядро системы",
+                "Итеграция каталогов партнеров с системой",
+                "jQuery codding"
+              ]
+            },
+            {
+              "company": {
+                "name": "Success development",
+                "city": "Симферополь ",
+                "country": "Россия",
+                "position": "PHP developer",
+                "dateFrom": "Ноябрь 2014",
+                "dateTill": "Декабрь 2014"
+              },
+              "duties": [
+                "PHP coding",
+                "unit test"
+              ]
+            },
+            {
+              "company": {
+                "name": "World Money Transfer LLC",
+                "city": "Симферополь",
+                "country": "Россия",
+                "position": "Back-End Developer",
+                "dateFrom": "Январь 2015",
+                "dateTill": "Декабрь 2015"
+              },
+              "duties": [
+                "Архитектура",
+                "PHP coding",
+                "jQuery coding",
+                "Интеграция партнерских API по различным протоколам",
+                "Разработка вспомогательных сервисов ",
+                "Улучшение ядра системы",
+                "Bootstrap"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Профессиональные навыки",
+          "description": [],
+          "secondColumn": true,
+          "miscLangs": {
+            "generalSkills": "Основные",
+            "additionalSkills": "Дополнительные"
+          },
+          "generalSkills": [
+            {
+              "name": "PHP",
+              "level": "Advanced",
+              "stars": "good"
+            },
+            {
+              "name": "Javascript",
+              "level": "Intermediate",
+              "stars": "normal"
+            },
+            {
+              "name": "Architecture",
+              "level": "Intermediate",
+              "stars": "normal"
+            },
+            {
+              "name": "MySql",
+              "level": "Advanced",
+              "stars": "good"
+            }
+          ],
+          "subSkills": [
+            "Zend framework",
+            "Symfony framework",
+            "Git",
+            "SVN",
+            "Linux",
+            "Windows"
+          ]
+        },
+        {
+          "name": "Хобби и интересы",
+          "description": [
+            "Я люблю играть на гитаре, экстримальные виды спорта, настольные игры, огненное шоу."
+          ],
+          "secondColumn": true
+        },
+        {
+          "name": "Languages",
+          "description": [],
+          "secondColumn": true,
+          "langs": [
+            {
+              "name": "English",
+              "level": "Beginner"
+            },
+            {
+              "name": "Russian",
+              "level": "Native"
+            },
+            {
+              "name": "Ukrainian",
+              "level": "Fluent"
+            }
+          ]
+        }
+      ]
+    },
+    "folio": {
+      "pageHeader": "Portfolio",
+      "pageDescription": [],
+      "folio": [
+        {
+          "categoryName": "spa",
+          "categoryItems": [
+            {
+              "name": "iFOBS Landing",
+              "type": "Landing page",
+              "link": "http://csltd.com.ua/ifobs",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "iFOBS",
+              "type": "Internet Banking System",
+              "link": "http://csltd.com.ua/en/our-products/for-banking/ifobs.html",
+              "description": [],
+              "img": ""
+            }
+          ]
+        },
+        {
+          "categoryName": "markup",
+          "categoryItems": [
+            {
+              "name": "Gorodskoy Dozor",
+              "type": "Mobile version",
+              "link": "http://m.dozor.kharkov.ua/",
+              "description": [],
+              "img": "./images/folio/guardwatch.png"
+            },
+            {
+              "name": "Internet representation of \"Apteka Zdorovia\" network",
+              "type": "",
+              "link": "http://mega-apteka.com/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Iconochka",
+              "type": "Shop",
+              "link": "http://iconochka.com.ua/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Aktiv Dosug",
+              "type": "Shop",
+              "link": "http://aktiv-dosyg.com.ua/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Be First",
+              "type": "Shop",
+              "link": "http://b-1.ua/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Lampa G13",
+              "type": "Informational",
+              "link": "http://lampag13.ru/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Himalayan Salt",
+              "type": "Informational",
+              "link": "http://gimalay-salt.ru/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Inter Lift",
+              "type": "Informational",
+              "link": "http://inter-lift.com.ua/",
+              "description": [],
+              "img": ""
+            },
+            {
+              "name": "Klubnika",
+              "type": "Informational",
+              "link": "http://klubnika31.demowww.com/",
+              "description": [],
+              "img": ""
+            }
+          ]
+        },
+        {
+          "categoryName": "miscellaneous",
+          "categoryItems": []
+        }
+      ]
+    },
+    "contacts": {
+      "pageHeader": "Contacts",
+      "pageDescription": [],
+      "contactsList": [
+        {
+          "name": "E-mail",
+          "data": "serivkos@gmail.com"
+        },
+        {
+          "name": "Skype",
+          "data": "seriv.dev"
+        }
+      ]
+    }
+  }
+}
