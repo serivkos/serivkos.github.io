@@ -9,7 +9,7 @@ define(['backbone'], function ( Backbone ) {
                 '': 'ShowMain',
                 'about': 'ShowAbout',
                 'blog': 'ShowBlog',
-                'folio': 'ShowFolio',
+//                'folio': 'ShowFolio',
                 'contacts': 'ShowContacts'
             },
 
