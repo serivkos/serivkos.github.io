@@ -73,7 +73,7 @@
               "company": {
                 "name": "World Money Transfer LLC",
                 "city": "Симферополь",
-                "country": "Россия",
+                "country": "Крым",
                 "position": "PHP-developer",
                 "dateFrom": "Январь 2015",
                 "dateTill": "Декабрь 2015"
@@ -95,7 +95,7 @@
               "company": {
                 "name": "Success development",
                 "city": "Симферополь ",
-                "country": "Россия",
+                "country": "Крым",
                 "position": "PHP developer",
                 "dateFrom": "Ноябрь 2014",
                 "dateTill": "Декабрь 2014"
@@ -302,7 +302,7 @@
       "contactsList": [
         {
           "name": "E-mail",
-          "data": "serivkos@gmail.com"
+          "data": "sergey.ivanov.developer@gmail.com"
         },
         {
           "name": "Skype",
